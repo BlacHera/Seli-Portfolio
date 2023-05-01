@@ -1,11 +1,12 @@
 :root {
   --primary-color: #276B67;
-  --secondary-color: #EFEDE9;
+  --secondary-color:#EFEDE9;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
 body {
   margin: 100px 0;
+  background-color: #EFEDE9;
 }
 
 h1,
@@ -35,7 +36,10 @@ h3 {
   line-height: 36px;
   font-style: normal;
 }
+.intro{
+  padding: 276px, 372px;
 
+}
 p {
   font-size: 18px;
   line-height: 1.5;
