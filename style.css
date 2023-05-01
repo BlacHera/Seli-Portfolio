@@ -15,16 +15,25 @@ h3 {
 }
 
 h1 {
-  font-size: 96px;
+font-size: 96px;
+font-family: 'Playfair Display', serif;
+line-height: 127.97px;
+font-weight: 700;
 }
 
 h2 {
-  font-size: 48px;
+font-family: 'Poppins',sans-serif;
+line-height: 54px;
+font-size: 36px;
+font-weight: 700;
 }
 
 h3 {
   font-size: 24px;
-  opacity: 0.7;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  line-height: 36px;
+  font-style: normal;
 }
 
 p {
